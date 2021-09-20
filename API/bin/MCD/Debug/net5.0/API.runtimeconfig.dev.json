@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zebax\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zebax\\.nuget\\packages"
+    ]
+  }
+}
