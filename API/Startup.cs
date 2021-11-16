@@ -10,8 +10,11 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using Microsoft.EntityFrameworkCore;
+using Persistence;
+using MediatR;
+using Application.Activities;
 
 using Persistence;
 
@@ -46,6 +49,8 @@ namespace API
                     policy.AllowAnyMethod().AllowAnyHeader().WithOrigins("http://localhost:3000");
                 });
             });
+
+            services.AddMediatR(typeof(List.Handler).Assembly);
 
         }
 

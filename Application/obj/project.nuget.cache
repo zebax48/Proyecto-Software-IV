@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HfQP7EvkH+xB8I8wlN0/L9yt1ZX0Yq3UaDeZUanyLFjbgBXLF42RWpVEdPMfbCUJfqN0PtKC4esX5GSC6nQgZA==",
+  "dgSpecHash": "TKLxuM79Tfx4B/5WCgbxXsgigOHCFFl2LtO92+mKtxviHPO9HJ3V59VsibARtOpa4LI/8ylXGOIFGGrS3CqbMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\zebax\\Documents\\#TRABAJOS U\\5\\Software IV\\Proyecto\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\zebax\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\zebax\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\zebax\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.1\\microsoft.data.sqlite.core.5.0.1.nupkg.sha512",
     "C:\\Users\\zebax\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\zebax\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.1\\microsoft.entityframeworkcore.5.0.1.nupkg.sha512",
